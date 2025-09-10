@@ -2,7 +2,7 @@
 
 ## Expectativas
 
-### Project Manager 1
+### Project Manager 1: Fiorella Poveda
 - Funciona como project manager con enfoque técnico, coordina las diferentes áreas técnicas del proyecto (Recuperación, Análisis (Simulación), Electrónica, Aeroestructuras, Payload).  
 - Coordina con el project manager 2, los asesores y mentores el avance.  
 - Asegurarse de que la herramienta de manejo de proyecto esté actualizada.  
